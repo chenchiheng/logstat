@@ -1,2 +1,2 @@
-# logstat
-stat the top log
+# 这个脚本是干啥的？
+处理atop日志收集的日志，输出报表。
